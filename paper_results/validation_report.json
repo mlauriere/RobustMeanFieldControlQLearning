@@ -1,0 +1,83 @@
+{
+  "completed_runs": 262,
+  "error_count": 0,
+  "expected_runs": 252,
+  "failed_runs": 0,
+  "issues": [
+    {
+      "check": "sis_max_gap_outlier",
+      "severity": "warning",
+      "threshold": 0.01,
+      "value": 0.019951923031
+    },
+    {
+      "check": "seir_max_gap_outlier",
+      "severity": "warning",
+      "threshold": 0.01,
+      "value": 0.0529318500007
+    }
+  ],
+  "manifest_status": [
+    {
+      "done": 9,
+      "expected": 9,
+      "failed": 0,
+      "missing": 0,
+      "optional": false,
+      "stage": "stage0_smoke"
+    },
+    {
+      "done": 7,
+      "expected": 7,
+      "failed": 0,
+      "missing": 0,
+      "optional": false,
+      "stage": "stage1_idealized"
+    },
+    {
+      "done": 30,
+      "expected": 30,
+      "failed": 0,
+      "missing": 0,
+      "optional": false,
+      "stage": "stage2_sysrisk_screen"
+    },
+    {
+      "done": 60,
+      "expected": 60,
+      "failed": 0,
+      "missing": 0,
+      "optional": false,
+      "stage": "stage3_final"
+    },
+    {
+      "done": 10,
+      "expected": 10,
+      "failed": 0,
+      "missing": 0,
+      "optional": true,
+      "stage": "stage3_seir_escalation"
+    },
+    {
+      "done": 120,
+      "expected": 120,
+      "failed": 0,
+      "missing": 0,
+      "optional": false,
+      "stage": "stage4_convergence"
+    },
+    {
+      "done": 26,
+      "expected": 26,
+      "failed": 0,
+      "missing": 0,
+      "optional": false,
+      "stage": "stage5_grid_sensitivity"
+    }
+  ],
+  "missing_runs": 0,
+  "optional_expected_runs": 10,
+  "optional_missing_runs": 0,
+  "total_manifest_rows": 262,
+  "warning_count": 2
+}

@@ -1,0 +1,22 @@
+{
+  "best_radius_rows": 27,
+  "completed_runs": 262,
+  "convergence_rows": 4824,
+  "expected_runs": 252,
+  "failed_runs": 0,
+  "gap_outlier_rows": 1993,
+  "gap_rows": 9912,
+  "gap_summary_rows": 11,
+  "grid_sensitivity_rows": 99,
+  "has_hyperparameter_recommendation": true,
+  "hyperparameter_rows": 24,
+  "missing_runs": 0,
+  "optional_expected_runs": 10,
+  "optional_missing_runs": 0,
+  "policy_diagnostic_rows": 900,
+  "policy_rows": 11814,
+  "relative_improvement_rows": 378,
+  "total_manifest_rows": 262,
+  "validation_error_count": 0,
+  "validation_warning_count": 2
+}
