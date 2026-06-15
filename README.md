@@ -82,3 +82,11 @@ are left untouched.
 
 See `REPRODUCE_FIGURES.md` for per-figure details and `ALGORITHM.md` for a
 mapping between code and the paper's Algorithm 1.
+
+## Citation
+
+If you use this code, please cite the associated paper:
+
+**Robust $Q$-learning for mean-field control under Wasserstein uncertainty in common noise**, Mathieu Laurière, Ariel Neufeld, and Kyunghyun Park.
+
+An arXiv link and BibTeX entry will be added once available.

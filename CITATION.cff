@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Reproducibility code for Robust Q-learning for mean-field control under Wasserstein uncertainty in common noise"
+type: software
+authors:
+  - family-names: Laurière
+    given-names: Mathieu
+  - family-names: Neufeld
+    given-names: Ariel
+  - family-names: Park
+    given-names: Kyunghyun
+repository-code: "https://github.com/mlauriere/RobustMeanFieldControlQLearning"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Robust Q-learning for mean-field control under Wasserstein uncertainty in common noise"
+  authors:
+    - family-names: Laurière
+      given-names: Mathieu
+    - family-names: Neufeld
+      given-names: Ariel
+    - family-names: Park
+      given-names: Kyunghyun
+  year: 2026
